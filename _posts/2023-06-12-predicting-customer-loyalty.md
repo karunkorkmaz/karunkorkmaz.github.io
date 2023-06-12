@@ -1,4 +1,4 @@
-
+---
 layout: post
 title: Predicting Customer Loyalty Using ML
 image: "/posts/regression-title-img.png"
